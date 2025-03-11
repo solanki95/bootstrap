@@ -1,0 +1,12 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:solanki95/bootstrap.git",
+  "author": "Rahul Solanki",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
